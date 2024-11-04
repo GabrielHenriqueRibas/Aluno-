@@ -14,11 +14,14 @@ Projeto desenvolvido para atividades da UTFPR - Guarapuava, Curso de Sistemas pa
 - [ ] Visualização de planos premium do app e pagamento do Curso de preparação. (Planos futuros).
 
 ## Protótipos de tela
-[TELAS DO FIGMA](https://www.figma.com/design/9xXuQZIJ5Um3Wb0nO2et7r/DPM?node-id=1-3&node-type=canvas&t=ONgGdesPqeuL4hLd-0)
+[TELAS DO FIGMA](https://www.figma.com/design/9xXuQZIJ5Um3Wb0nO2et7r/DPM?node-id=0-1&t=F503ApqBIwMrZBhP-1)
 
 ## Modelagem do banco
+Para o banco de dados será ultilizado o Firebase, com a seguinte modelagem:
+
 ![image](https://github.com/user-attachments/assets/bc3cbb82-05e9-4d4d-a53e-21cc8fc018d1)
 
+Obs: Caso não seja possivel ou necessário conectar com um banco de dados, será utilizado uma integração via API com o Google sheet para armazenamento de dados(pensando em completar os requisitos da diciplina que será feito dessa forma, mas entendo que em projetos reais, fazer dessa maneira não é a forma correta).
 ## Planejamento de sprints
 
 | Checkpoint   | Entregas                                    | Data de Entrega  | Data Entregue  | Observações                                      |
